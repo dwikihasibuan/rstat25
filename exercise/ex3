@@ -1,1 +1,13 @@
 # LATIHAN 3
+
+📌 Bagian 3: Penggunaan Fungsi Dasar pada Data
+21. Buat dataframe sederhana dengan dua kolom: `Nama` dan `Nilai`, masing-masing berisi 5 entri.
+22. Gunakan `dim()` untuk mengetahui jumlah baris dan kolom dalam dataframe.
+23. Gunakan `str()` untuk melihat struktur dataframe yang sudah dibuat.
+24. Gunakan `summary()` untuk mendapatkan ringkasan statistik dari dataframe.
+25. Gunakan `head()` dan `tail()` untuk melihat 3 entri pertama dan terakhir dari dataframe.
+26. Ambil nilai kolom `Nilai` menggunakan `$` operator.
+27. Buat vektor `gender` dengan isi `"Laki-laki", "Perempuan", "Laki-laki", "Perempuan"`. Ubah menjadi faktor dengan `factor()`.
+28. Buat matriks dengan 3 baris dan 3 kolom menggunakan `matrix()`.
+29. Gunakan `apply()` untuk menjumlahkan setiap baris dari matriks yang sudah dibuat.
+30. Gunakan `table()` untuk menghitung frekuensi elemen dalam vektor `gender`.
