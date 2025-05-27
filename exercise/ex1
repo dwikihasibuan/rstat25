@@ -1,1 +1,13 @@
-# latihan soal dengan bahasa R
+# LATIHAN 1
+
+**📌 Bagian 1: Operasi Aritmatika Dasar (Penjumlahan, Perkalian, Pembagian, dll.)**
+1. Buat variabel `a` dengan nilai 45 dan `b` dengan nilai 15. Hitung hasil dari `a + b` dan simpan dalam `total`.
+2. Hitung hasil dari `a - b` dan simpan dalam `selisih`.
+3. Buat variabel `c` dengan nilai 12. Hitung hasil `a * c / b` dan simpan dalam `hasil`.
+4. Gunakan operator `%%` untuk mendapatkan sisa pembagian `a` dengan `b` dan simpan dalam `modulo`.
+5. Hitung nilai absolut dari `-23` menggunakan fungsi `abs()` dan simpan dalam variabel `nilai_abs`.
+6. Gunakan fungsi `sqrt()` untuk menghitung akar kuadrat dari 144.
+7. Buat variabel `x` bernilai 5. Hitung hasil dari `x^3`.
+8. Hitung pembulatan ke atas dari 12.3 menggunakan `ceiling()`.
+9. Hitung pembulatan ke bawah dari 12.7 menggunakan `floor()`.
+10. Gunakan fungsi `round()` untuk membulatkan angka 17.567 ke dua angka desimal.
