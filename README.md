@@ -29,7 +29,25 @@ Mahasiswa dan dosen dipersilakan untuk berkontribusi dengan:
 - Memberikan feedback melalui GitHub Issues.  
 
 📜 **Lisensi**  
-Repositori ini menggunakan lisensi **MIT License**, sehingga dapat digunakan dan dikembangkan oleh siapa saja.  
-  
+Repositori ini menggunakan lisensi **GNU General Public License v3.0 (GPL-3.0)**, yang memungkinkan siapa saja untuk menggunakan, memodifikasi, dan mendistribusikan proyek ini, selama mereka tetap mematuhi syarat-syarat yang telah ditetapkan dalam lisensi.
+
+🔓 **Tentang Lisensi GPL-3.0**
+GPL-3.0 adalah lisensi perangkat lunak bebas yang menekankan kebebasan pengguna untuk:
+- Menggunakan proyek ini untuk keperluan akademis, penelitian, atau pengembangan lebih lanjut.
+- Memodifikasi dan meningkatkan fitur repositori, selama perubahan tersebut tetap terbuka untuk publik.
+- Mendistribusikan ulang hasil modifikasi dengan tetap menyertakan lisensi yang sama agar keberlanjutan keterbukaan terjaga.
+
+📌 **Hak dan Kewajiban Pengguna**
+Dengan menggunakan repositori ini, pengguna:
+✔ Memiliki hak penuh untuk menjelajahi dan memanfaatkan kode serta dataset yang tersedia.
+✔ Dapat berkontribusi dalam pengembangan repositori melalui pull requests dan diskusi di GitHub Issues.
+✔ Harus menyertakan atribusi yang sesuai saat menggunakan atau mengadaptasi materi dari repositori ini.
+✔ Wajib memastikan bahwa semua perubahan atau perbaikan yang dilakukan tetap menggunakan GPL-3.0, sehingga tetap terbuka untuk semua orang.
+
+📜 **Referensi dan Dokumentasi**
+Informasi lebih lanjut mengenai lisensi ini dapat ditemukan di:
+- [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+- [GitHub Guide tentang Lisensi](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
+   
 💡 Tertarik berkontribusi? Jangan ragu untuk mengajukan **pull request** atau berdiskusi melalui **GitHub Issues**  
 
