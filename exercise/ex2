@@ -1,0 +1,15 @@
+# LATIHAN 2
+
+📌 **Bagian 2: Penggunaan Fungsi `c()` untuk Membuat Vektor**
+11. Buat vektor `angka` yang berisi nilai: `1, 2, 3, 4, 5`.
+12. Tambahkan elemen `6` ke dalam vektor `angka` menggunakan `c()`.
+13. Buat vektor `harga` berisi `10000, 25000, 15000, 30000`. Hitung jumlah totalnya menggunakan `sum()`.
+14. Hitung rata-rata dari vektor `harga` menggunakan `mean()`.
+15. Hitung nilai maksimum dan minimum dari vektor `harga` menggunakan `max()` dan `min()`.
+16. Buat vektor `nilai` dengan angka acak sebanyak 10 elemen. Ambil 5 angka pertama menggunakan `nilai[1:5]`.
+17. Buat vektor `tahun` berisi `2019, 2020, 2021, 2022`. Gunakan indeks untuk mengambil angka `2021`.
+18. Buat vektor karakter berisi `"R", "Python", "SPSS", "Excel"`. Ambil elemen kedua dari vektor tersebut.
+19. Gunakan `length()` untuk mengetahui jumlah elemen dalam vektor `nilai`.
+20. Urutkan vektor `harga` dari terkecil ke terbesar menggunakan `sort()`.
+
+---
