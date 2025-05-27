@@ -1,0 +1,13 @@
+# LATIHAN 5
+
+📌 Bagian 5: Pengolahan Data dengan Paket `base`
+41. Buat vektor angka acak sebanyak 10 elemen menggunakan `sample()`.
+42. Gunakan `rep()` untuk mengulang angka `5` sebanyak 8 kali.
+43. Gunakan `seq()` untuk membuat urutan angka dari 10 hingga 100 dengan interval 10.
+44. Gunakan `ifelse()` untuk mengecek apakah angka dalam vektor lebih dari 50 dan ubah menjadi `"Lolos"` atau `"Tidak Lolos"`.
+45. Gunakan `which()` untuk menemukan indeks angka yang lebih besar dari 20 dalam vektor.
+46. Gunakan `cumsum()` untuk menghitung jumlah kumulatif vektor angka.
+47. Gunakan `diff()` untuk menghitung selisih antara elemen berturut-turut dalam vektor.
+48. Gunakan `rbind()` dan `cbind()` untuk menggabungkan dua vektor sebagai baris dan kolom dalam matriks.
+49. Gunakan `order()` untuk mengurutkan indeks berdasarkan elemen vektor dari terkecil ke terbesar.
+50. Gunakan `sample()` untuk memilih 5 angka acak dari vektor angka yang memiliki 20 elemen.
