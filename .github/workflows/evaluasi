@@ -1,0 +1,19 @@
+name: Evaluasi Tugas Mahasiswa
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositori
+        uses: actions/checkout@v3
+
+      - name: Install R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install dependensi
+        run: Rscript -e "install.packages(c('testthat', 'tidyverse'))"
+
+      - name: Jalankan tes otomatis
+        run: Rscript -e "testthat::test_dir('tests')"
