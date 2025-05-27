@@ -12,4 +12,3 @@
 19. Gunakan `length()` untuk mengetahui jumlah elemen dalam vektor `nilai`.
 20. Urutkan vektor `harga` dari terkecil ke terbesar menggunakan `sort()`.
 
----
