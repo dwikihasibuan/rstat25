@@ -1,0 +1,13 @@
+# LATIHAN 4
+
+📌 Bagian 4: Pengolahan String dengan Paket `base`
+31. Buat variabel `nama` berisi `"Mahasiswa Statistik"`. Hitung panjang string menggunakan `nchar()`.
+32. Ubah `nama` menjadi huruf kecil menggunakan `tolower()`, lalu ubah ke huruf kapital dengan `toupper()`.
+33. Gabungkan dua string `"Analisis"` dan `"Data"` menggunakan `paste()`.
+34. Pisahkan string `"Data, Statistik, Matematika"` berdasarkan koma menggunakan `strsplit()`.
+35. Buat vektor nama `"Adi", "Budi", "Citra"` lalu gabungkan dengan kata `"Mahasiswa"` menggunakan `paste()` dengan separator `-`.
+36. Gunakan `grep()` untuk mencari elemen dalam vektor nama yang mengandung huruf `"d"`.
+37. Gunakan `substr()` untuk mengambil 5 karakter pertama dari string `"Pemrograman dengan R"`.
+38. Buat string `"2025-05-28"` dan ubah ke format tanggal menggunakan `as.Date()`.
+39. Gunakan `format()` untuk mengubah format tanggal menjadi `"28 Mei 2025"`.
+40. Buat format waktu saat ini menggunakan `Sys.time()` dan ubah ke format `"YYYY-MM-DD HH:MM"`.
