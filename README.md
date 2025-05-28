@@ -7,7 +7,11 @@ Repositori `rstat25` dibuat untuk mendukung pembelajaran **Statistik Sosial** di
 - **datasets** – Dataset mentah dari World Value Survey VII (Open Access)  
 - **scripts** – Skrip R untuk analisis statistik  
 - **reports** – Laporan dan dokumentasi berbasis RMarkdown (.Rmd)  
-- **docs** – Dokumentasi tambahan  
+- **docs** – Dokumentasi tambahan
+- **exercise** - Berisi soal-soal latihan pengayaan materi perkuliahan
+- **assignments** - Berisi kumpulan jawaban latihan soal dari mahasiswa
+- **references** - Berisi literatur terpilih tentang statistik dan R
+- **report** - Berisi kumpulan dokumen PDF yang dibuat dengan R Markdown  
 - **README.md** – Deskripsi dan panduan penggunaan repositori  
 - **rstat25.Rproj** – File proyek untuk RStudio  
 
